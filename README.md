@@ -10,5 +10,5 @@ Através desse projeto, coloquei em pratica o consumo de api com <strong> Axios<
 
 
 
-![https://raw.githubusercontent.com/VitorMariano-hub/github-api/main/public/gitapi.png]()
+![](https://uploaddeimagens.com.br/imagens/TPFdpMQ)
 
