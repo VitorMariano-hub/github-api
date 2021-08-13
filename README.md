@@ -10,5 +10,5 @@ Através desse projeto, coloquei em pratica o consumo de api com <strong> Axios<
 
 
 
-![](https://uploaddeimagens.com.br/imagens/TPFdpMQ)
+![Image](https://uploaddeimagens.com.br/images/003/381/381/original/gitapi.png?1628891485)
 
