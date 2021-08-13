@@ -10,5 +10,5 @@ Através desse projeto, coloquei em pratica o consumo de api com <strong> Axios<
 
 
 
-![](\api-github\public\gitapi.png)
+![https://raw.githubusercontent.com/VitorMariano-hub/github-api/main/public/gitapi.png]()
 
